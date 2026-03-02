@@ -3,7 +3,7 @@
 This folder contains my Week 7 Final Network Traffic Analysis Report for CYBR-2200 Network Analysis.
 
 ## Included File
-- final-network-analysis-report(2).pdf
+- final-network-analysis-report.pdf
 
 ## Summary
 This report analyzes the following packet captures:
